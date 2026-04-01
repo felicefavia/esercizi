@@ -11,7 +11,9 @@ metadatas = []
 ids = []
 
 id = 0
-key = load_dotenv('../.env')
+load_dotenv('../.env')
+
+key_env = os.getenv("OPENAI_API_KEY")
 
 # Recupera i documenti dalla cartella resumes
 for filename in os.listdir(document_dir):
@@ -29,7 +31,7 @@ for filename in os.listdir(document_dir):
 
 # Funzione di embedding
 openai_ef = embedding_functions.OpenAIEmbeddingFunction(
-    api_key="inserire api key",
+    api_key=key_env,
     model_name="text-embedding-3-small"
 )
 
