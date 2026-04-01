@@ -1,0 +1,20 @@
+Nome: Lasagna al Forno
+
+Ingredienti:
+- Sfoglie di lasagna
+- Carne macinata
+- Passata di pomodoro
+- Besciamella
+- Parmigiano
+
+Descrizione:
+Piatto tradizionale italiano ricco e sostanzioso.
+
+Preparazione:
+1. Preparare il ragù con carne e pomodoro.
+2. Preparare la besciamella.
+3. Fare strati alternando pasta, ragù e besciamella.
+4. Cuocere in forno a 180°C per 30-40 minuti.
+
+Tempo: 60 minuti
+Tipo: Carne

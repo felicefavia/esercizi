@@ -1,0 +1,21 @@
+Nome: Pasta alla Carbonara
+
+Ingredienti:
+- Pasta
+- Uova
+- Guanciale
+- Parmigiano
+- Pepe nero
+
+Descrizione:
+La pasta alla carbonara è un piatto tipico romano cremoso e saporito.
+
+Preparazione:
+1. Cuocere la pasta in acqua salata.
+2. Rosolare il guanciale in padella.
+3. Sbattere le uova con parmigiano e pepe.
+4. Scolare la pasta e unirla al guanciale.
+5. Aggiungere il composto di uova fuori dal fuoco.
+
+Tempo: 20 minuti
+Tipo: Carne
